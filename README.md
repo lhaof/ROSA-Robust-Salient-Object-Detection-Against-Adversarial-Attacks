@@ -7,7 +7,7 @@ If you find this code helpful, please cite the following paper.
 @article{li2019rosa,
   title={ROSA: Robust Salient Object Detection Against Adversarial Attacks},
   author={Li, Haofeng and Li, Guanbin and Yu, Yizhou},
-  journal={IEEE Transactions on Systems, Man, and Cybernetics},
+  journal={IEEE Transactions on Cybernetics},
   pages={1--13},
   year={2019}
 }
