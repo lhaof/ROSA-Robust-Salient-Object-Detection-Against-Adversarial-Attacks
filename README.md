@@ -12,3 +12,5 @@ If you find this code helpful, please cite the following paper.
   year={2019}
 }
 ```
+
+## How to Use
