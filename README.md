@@ -15,3 +15,7 @@ If you find this code helpful, please cite the following paper.
 
 ## How to Use
 Our method is a robust framework that protect a FCN from adversarial attacks. Our method consists of three components: segmentwise pixel shuffling, FCN backbone, CRF refinement. The code of pixel shuffling has not been released. The pairwise energy term is defined by the output of bilateral filter. The code of bilateral filtering has not been released. You may implement them by yourself.
+
+The following is the model weights of a trained DSS+ROSA:
+
+https://pan.baidu.com/s/1YV1NnBPbE_Usy57Y7C5fUQ password: lipc
