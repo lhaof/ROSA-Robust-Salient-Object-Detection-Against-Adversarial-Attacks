@@ -1,5 +1,7 @@
 # ROSA: Robust Salient Object Detection Against Adversarial Attacks
 
+## Updated on 2020/5/31: the code of segmentwise shielding and bilateral filter have not been released. You may re-implement them by yourself. I may update the implementation later.
+
 This is an implementation of 'ROSA: Robust Salient Object Detection Against Adversarial Attacks', published in IEEE Transactions on Cybernetics, 2019. 
 
 If you find this code helpful, please cite the following paper.
